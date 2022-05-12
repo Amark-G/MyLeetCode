@@ -46,6 +46,7 @@ public class NQueen {
         res.append(".".repeat(n));
         res.setCharAt(col, 'Q');
         return res.toString();
+
     }
 
 }
