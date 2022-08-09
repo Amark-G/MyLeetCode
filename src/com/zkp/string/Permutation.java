@@ -13,6 +13,7 @@ public class Permutation {
         Permutation permutation = new Permutation();
         permutation.test("ab");
         HashSet<String> strings = new HashSet<>();
+
     }
 
     private ArrayList<String> ret = new ArrayList<>();
